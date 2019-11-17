@@ -1,0 +1,11 @@
+resources/
+results/
+aida_speaking.egg-info
+.DS_Store
+__pycache__
+.idea
+.vscode
+.ipynb_checkpoints
+venv/
+aida_speaking.egg-info/
+.eggs
